@@ -1127,8 +1127,8 @@ var songs = {
         "artist": "Fitz and The Tantrums",
         "gender": "♂/♀/♂",
         "category": [0],
-        "youtubeId": "f-3V0J00h4c",
-        "youtubeTime": 0
+        "youtubeId": "esLEZZLO7aw",
+        "youtubeTime": 10
     },
     "136": {
         "name": "Hangover (BaBaBa)",
@@ -1191,8 +1191,8 @@ var songs = {
         "artist": "OutKast",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "xaL1Ulp8S24",
-        "youtubeTime": 0
+        "youtubeId": "MiNhjO-Rv5Q",
+        "youtubeTime": 13
     },
     "144": {
         "name": "Hips Don't Lie",
@@ -1279,8 +1279,8 @@ var songs = {
         "artist": "Auli'i Cravalho (covered by the cast of Disney's Moana)",
         "gender": "♀",
         "category": [9],
-        "youtubeId": "CWzxQb0s3tw",
-        "youtubeTime": 0
+        "youtubeId": "E9deOdyjZ7Q",
+        "youtubeTime": 27
     },
     "155": {
         "name": "Hungarian Dance No. 5(JD)",
@@ -1295,7 +1295,7 @@ var songs = {
         "artist": "2NE1",
         "gender": "♀️/♀️/♀️",
         "category": [0],
-        "youtubeId": "az0Q2gw3nbU",
+        "youtubeId": "N-xCMgDGHA8",
         "youtubeTime": 0
     },
     "157": {
@@ -1399,8 +1399,8 @@ var songs = {
         "artist": "Elton John (covered by Top Culture)",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "l7agxUCElxY",
-        "youtubeTime": 0
+        "youtubeId": "Nj9Wz1uXcsk",
+        "youtubeTime": 25
     },
     "170": {
         "name": "Idealistic",
@@ -1447,8 +1447,8 @@ var songs = {
         "artist": "Ariana Grande",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "_qwhHBBA7uI",
-        "youtubeTime": 0
+        "youtubeId": "oxioohk_i9M",
+        "youtubeTime": 16
     },
     "176": {
         "name": "Irish Meadow Dance",
@@ -1543,8 +1543,8 @@ var songs = {
         "artist": "Major Lazer feat. Busy Signal",
         "gender": "♂/♂",
         "category": [0],
-        "youtubeId": "71hPEZtq07k",
-        "youtubeTime": 0
+        "youtubeId": "7jo9EuxZ4vE",
+        "youtubeTime": 18
     },
     "188": {
         "name": "Jump (For My Love)",
@@ -1615,8 +1615,8 @@ var songs = {
         "artist": "Michelle Delamor",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "Un5Fv2-sqcs",
-        "youtubeTime": 0
+        "youtubeId": "l8WxpazGFug",
+        "youtubeTime": 6
     },
     "197": {
         "name": "Kool Kontact",
@@ -1735,16 +1735,16 @@ var songs = {
         "artist": "Zayn",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "kD1m4hlNDBc",
-        "youtubeTime": 0
+        "youtubeId": "NVgI3Ai1vW0",
+        "youtubeTime": 15
     },
     "212": {
         "name": "Little Swing",
         "artist": "AronChupa feat. Little Sis Nora",
         "gender": "♀/♂",
         "category": [0],
-        "youtubeId": "km4jGc4Uy_s",
-        "youtubeTime": 0
+        "youtubeId": "1rRuysXMbWE",
+        "youtubeTime": 14
     },
     "213": {
         "name": "Lollipop",
@@ -1775,8 +1775,8 @@ var songs = {
         "artist": "Hatsune Miku",
         "gender": "♂/♀/♀",
         "category": [9],
-        "youtubeId": "P01hBwKI-lM",
-        "youtubeTime": 0
+        "youtubeId": "-3ORYC-Y-Gs",
+        "youtubeTime": 24
     },
     "217": {
         "name": "Love You Like A Love Song",
@@ -1807,8 +1807,8 @@ var songs = {
         "artist": "Sean Paul and David Guetta feat. Becky G",
         "gender": "♀/♂",
         "category": [7],
-        "youtubeId": "N__2yv15LAs",
-        "youtubeTime": 0
+        "youtubeId": "y0l2s0pkNp0",
+        "youtubeTime": 7
     },
     "221": {
         "name": "Make It Jingle",
@@ -1823,8 +1823,8 @@ var songs = {
         "artist": "Janelle Monáe",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "wcbhR8etsMc",
-        "youtubeTime": 0
+        "youtubeId": "KA4NHBqg3pQ",
+        "youtubeTime": 15
     },
     "223": {
         "name": "Mamasita",
@@ -1871,8 +1871,8 @@ var songs = {
         "artist": "Becky G feat. Bad Bunny",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "I-9mOoaQJg8",
-        "youtubeTime": 0
+        "youtubeId": "M6GlsmuGA0A",
+        "youtubeTime": 11
     },
     "229": {
         "name": "Me Too",
@@ -1887,8 +1887,8 @@ var songs = {
         "artist": "Anitta",
         "gender": "♂/♀/♂/♀",
         "category": [6],
-        "youtubeId": "MfX4GgWZjtQ",
-        "youtubeTime": 0
+        "youtubeId": "on5bb-RtAqc",
+        "youtubeTime": 8
     },
     "231": {
         "name": "Mi Gente",
@@ -1991,16 +1991,16 @@ var songs = {
         "artist": "Blasterjaxx and Timmy Trumpet",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "BiueCmovLXs",
-        "youtubeTime": 0
+        "youtubeId": "cQtAZ-lVLyY",
+        "youtubeTime": 14
     },
     "244": {
         "name": "Naughty Girl",
         "artist": "Beyoncé",
         "gender": "♀",
         "category": [7],
-        "youtubeId": "jRNB-xh13XU",
-        "youtubeTime": 0
+        "youtubeId": "6wOHCkGRFLQ",
+        "youtubeTime": 14
     },
     "245": {
         "name": "Never Can Say Goodbye",
@@ -2063,8 +2063,8 @@ var songs = {
         "artist": "Sean Paul feat. Dua Lipa",
         "gender": "♀/♂",
         "category": [0],
-        "youtubeId": "ZTsJGLzb9bo",
-        "youtubeTime": 0
+        "youtubeId": "zhmuZ1Lxz0s",
+        "youtubeTime": 15
     },
     "253": {
         "name": "No Limit",
@@ -2087,8 +2087,8 @@ var songs = {
         "artist": "Stella Mwangi",
         "gender": "♀/♀/♀/♀",
         "category": [0],
-        "youtubeId": "3hbSPVzfZag",
-        "youtubeTime": 0
+        "youtubeId": "EIL_QOVGOeU",
+        "youtubeTime": 12
     },
     "256": {
         "name": "Oath",
@@ -2199,8 +2199,8 @@ var songs = {
         "artist": "Galantis",
         "gender": "♀/♂/♀",
         "category": [0],
-        "youtubeId": "oWVLkriYPjc",
-        "youtubeTime": 0
+        "youtubeId": "SrKUsNWXZ2Y",
+        "youtubeTime": 22
     },
     "270": {
         "name": "Pound the Alarm",
@@ -2279,15 +2279,15 @@ var songs = {
         "artist": "Corona (covered by Ultraclub 90)",
         "gender": "♀",
         "category": [4],
-        "youtubeId": "ev_kytGLHEI",
-        "youtubeTime": 0
+        "youtubeId": "FPxX7RguuRA",
+        "youtubeTime": 17
     },
     "280": {
         "name": "Risky Business",
         "artist": "Jorge Blanco",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "OI1xI-2W2dw",
+        "youtubeId": "9t-N5CTN24Q",
         "youtubeTime": 0
     },
     "281": {
@@ -2351,8 +2351,8 @@ var songs = {
         "artist": "Pharrell Williams x Camila Cabello",
         "gender": "♀",
         "category": [4],
-        "youtubeId": "vHekrfjawv4",
-        "youtubeTime": 0
+        "youtubeId": "lUPMM20J-Ow",
+        "youtubeTime": 14
     },
     "289": {
         "name": "Sax",
@@ -2367,8 +2367,8 @@ var songs = {
         "artist": "Wanko Ni Mero Mero",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "ssStdnpHXos",
-        "youtubeTime": 0
+        "youtubeId": "OwE4l052JWk",
+        "youtubeTime": 1
     },
     "291": {
         "name": "Scream & Shout",
@@ -2479,7 +2479,7 @@ var songs = {
         "artist": "Justin Bieber",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "hyzT5S56R8I",
+        "youtubeId": "76tYkD1iF6A",
         "youtubeTime": 0
     },
     "305": {
@@ -2543,8 +2543,8 @@ var songs = {
         "artist": "The Just Dance Band",
         "gender": "♂",
         "category": [4],
-        "youtubeId": "U8IPQVrsmXg",
-        "youtubeTime": 0
+        "youtubeId": "kP7vUn33uGU",
+        "youtubeTime": 12
     },
     "313": {
         "name": "Summer",
@@ -2559,8 +2559,8 @@ var songs = {
         "artist": "DEMO",
         "gender": "♀",
         "category": [3],
-        "youtubeId": "S-HU03ZdaIE",
-        "youtubeTime": 0
+        "youtubeId": "9n8gScxsjQs",
+        "youtubeTime": 11
     },
     "315": {
         "name": "Super Bass",
@@ -2591,24 +2591,24 @@ var songs = {
         "artist": "Bea Miller",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "kdYq8Ac46wM",
-        "youtubeTime": 0
+        "youtubeId": "5WTEgP7gUEE",
+        "youtubeTime": 17
     },
     "319": {
         "name": "Sweet Sensation",
         "artist": "Flo Rida",
         "gender": "♂️/♀/♂️/♂️",
         "category": [4],
-        "youtubeId": "OTHS723Uw3k",
-        "youtubeTime": 0
+        "youtubeId": "jkGH7JIHDSk",
+        "youtubeTime": 14
     },
     "320": {
         "name": "Swish Swish",
         "artist": "Katy Perry feat. Nicki Minaj",
         "gender": "♂/♀/♀/♂",
         "category": [7],
-        "youtubeId": "J-fuU87BbNU",
-        "youtubeTime": 15
+        "youtubeId": "Ls_FWxWo9PI",
+        "youtubeTime": 0
     },
     "321": {
         "name": "Take Me Out",
@@ -2703,8 +2703,8 @@ var songs = {
         "artist": "Sia",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "bs5iQ8mDoSc",
-        "youtubeTime": 0
+        "youtubeId": "m40Jct7lNrY",
+        "youtubeTime": 23
     },
     "333": {
         "name": "The Master Blaster",
@@ -2735,8 +2735,8 @@ var songs = {
         "artist": "Bebe Rexha feat. Lil Wayne",
         "gender": "♀/♂",
         "category": [4],
-        "youtubeId": "vqmx0M9QCpo",
-        "youtubeTime": 0
+        "youtubeId": "wfnv8k9zGH4",
+        "youtubeTime": 14
     },
     "337": {
         "name": "The World is Ours",
@@ -2791,7 +2791,7 @@ var songs = {
         "artist": "Zequinha de Abreu (covered by The Frankie Bostello Orchestra)",
         "gender": "♂/♀",
         "category": [0],
-        "youtubeId": "J9575Qfhl3A",
+        "youtubeId": "M07egCIUiGs",
         "youtubeTime": 0
     },
     "344": {
@@ -2823,7 +2823,7 @@ var songs = {
         "artist": "David Guetta feat. Sia",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "vhBd_SRB7y0",
+        "youtubeId": "uX1sirWd23E",
         "youtubeTime": 0
     },
     "348": {
@@ -2847,8 +2847,8 @@ var songs = {
         "artist": "Yemi Alade",
         "gender": "♂/♀/♀/♂",
         "category": [4],
-        "youtubeId": "-CPyax_6Za8",
-        "youtubeTime": 0
+        "youtubeId": "Dz92QU-40bA",
+        "youtubeTime": 9
     },
     "351": {
         "name": "Turn Up the Love",
@@ -2907,12 +2907,12 @@ var songs = {
         "youtubeTime": 17
     },
     "358": {
-        "name": "Waka Waka (This Time for Africa)",
+        "name": "Waka Waka (This Time for Africa) - Kids",
         "artist": "Shakira",
         "gender": "♂/♀/♀",
         "category": [4],
-        "youtubeId": "y_OW4lOM8cQ",
-        "youtubeTime": 0
+        "youtubeId": "gCzgc_RelBA",
+        "youtubeTime": 1
     },
     "359": {
         "name": "Wake Me Up",
@@ -3039,16 +3039,16 @@ var songs = {
         "artist": "Lady Leshurr feat. Wiley",
         "gender": "♀/♀/♀",
         "category": [7],
-        "youtubeId": "KNIgfQFWh7A",
-        "youtubeTime": 12
+        "youtubeId": "PulS2EmtPA0",
+        "youtubeTime": 22
     },
     "375": {
         "name": "Wherever I Go",
         "artist": "OneRepublic",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "2zTkebKpGvo",
-        "youtubeTime": 0
+        "youtubeId": "dqr5FSjI5s8",
+        "youtubeTime": 21
     },
     "376": {
         "name": "Who Let the Dogs Out?",
@@ -3175,8 +3175,8 @@ var songs = {
         "artist": "Troye Sivan",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "czoj640sMxk",
-        "youtubeTime": 0
+        "youtubeId": "4RmA7aIddtI",
+        "youtubeTime": 17
     },
     "392": {
         "name": "Bangarang",
@@ -3207,8 +3207,8 @@ var songs = {
         "artist": "DJ Snake Ft. Selena Gomez, Ozuna, Cardi B",
         "gender": "♀",
         "category": [1, 7],
-        "youtubeId": "4enJ6u8dgHQ",
-        "youtubeTime": 10
+        "youtubeId": "xHwB2Gn3Zz0",
+        "youtubeTime": 0
     },
     "396": {
         "name": "365",
@@ -3285,10 +3285,10 @@ var songs = {
     "405": {
         "name": "I Am The Best (내가 제일 잘 나가)",
         "artist": "2ENE1",
-        "gender": "♀/♀/♀",
+        "gender": "♂",
         "category": [3],
-        "youtubeId": "T75McKj1FF4",
-        "youtubeTime": 9
+        "youtubeId": "8dM1wUOhtPU",
+        "youtubeTime": 8
     },
     "406": {
         "name": "Fancy",
@@ -3303,8 +3303,8 @@ var songs = {
         "artist": "BLACKPINK",
         "gender": "♀",
         "category": [3],
-        "youtubeId": "5DItu2ysV38",
-        "youtubeTime": 13
+        "youtubeId": "R36QUnxTiXk",
+        "youtubeTime": 10
     },
     "408": {
         "name": "Bad Boy",
@@ -3319,16 +3319,16 @@ var songs = {
         "artist": "Lil Nas X Ft. Billy Ray Cyrus",
         "gender": "♂",
         "category": [4],
-        "youtubeId": "dnOL4V5_qaM",
-        "youtubeTime": 8
+        "youtubeId": "ymaUZ67VgK8",
+        "youtubeTime": 0
     },
     "410": {
         "name": "Talk",
         "artist": "Khalid",
         "gender": "♂",
         "category": [4],
-        "youtubeId": "aCDC62-YfNY",
-        "youtubeTime": 14
+        "youtubeId": "Gxi_oQRLhVs",
+        "youtubeTime": 0
     },
     "411": {
         "name": "Lay All Your Love On Me",
@@ -3407,8 +3407,8 @@ var songs = {
         "artist": "Dr. Creole",
         "gender": "♂/♀/♀/♂",
         "category": [3],
-        "youtubeId": "EBDkeeU-OKE",
-        "youtubeTime": 7
+        "youtubeId": "wqfeEIuqilM",
+        "youtubeTime": 10
     },
     "421": {
         "name": "Bassa Sababa",
@@ -3423,16 +3423,16 @@ var songs = {
         "artist": "Jolin Tsai",
         "gender": "♀/♀/♀",
         "category": [3],
-        "youtubeId": "T8YOUBCHhB8",
-        "youtubeTime": 9
+        "youtubeId": "inctpyia_mY",
+        "youtubeTime": 10
     },
     "423": {
         "name": "Soy Yo",
         "artist": "Bómba Estéreo",
         "gender": "♀",
         "category": [3, 7],
-        "youtubeId": "9RwA_Iq9IfM",
-        "youtubeTime": 6
+        "youtubeId": "E_388Z6csgs",
+        "youtubeTime": 0
     },
     "424": {
         "name": "Con Calma",
@@ -3511,8 +3511,8 @@ var songs = {
         "artist": "DNCE ft. Nicki Minaj",
         "gender": "♀/♂",
         "category": [4],
-        "youtubeId": "_dJuIsuhT5g",
-        "youtubeTime": 15
+        "youtubeId": "S64T6Bh6yg0",
+        "youtubeTime": 25
     },
     "434": {
         "name": "Automaton - ALTERNATE",
@@ -3599,8 +3599,8 @@ var songs = {
         "artist": "Camila Cabello",
         "gender": "♀/♂",
         "category": [6],
-        "youtubeId": "i9bEppENZdc",
-        "youtubeTime": 0
+        "youtubeId": "dgdVisw8xsU",
+        "youtubeTime": 1
     },
     "445": {
         "name": "Medicina - ALTERNATE",
@@ -3655,7 +3655,7 @@ var songs = {
         "artist": "Lil Nas X Ft. Billy Ray Cyrus",
         "gender": "♂/♀/♂",
         "category": [7],
-        "youtubeId": "fkjUgVdAPlE&t",
+        "youtubeId": "fkjUgVdAPlE",
         "youtubeTime": 0
     },
     "452": {
@@ -3671,8 +3671,8 @@ var songs = {
         "artist": "Lady Leshurr feat. Wiley",
         "gender": "♀/♀/♀",
         "category": [7],
-        "youtubeId": "JH4fxeYpktg",
-        "youtubeTime": 0
+        "youtubeId": "JTen2i5A-DU",
+        "youtubeTime": 10
     },
     "454": {
         "name": "Let It Go - ALTERNATE",
@@ -3719,8 +3719,8 @@ var songs = {
         "artist": "Khalid",
         "gender": "♀",
         "category": [8],
-        "youtubeId": "Nx-Z3Rn-RS8",
-        "youtubeTime": 13
+        "youtubeId": "jM0c4-jOz3M",
+        "youtubeTime": 11
     },
     "460": {
         "name": "Sushi - ALTERNATE",
@@ -3743,8 +3743,8 @@ var songs = {
         "artist": "Dua Lipa",
         "gender": "♀",
         "category": [8],
-        "youtubeId": "xvkKaflOmwk",
-        "youtubeTime": 0
+        "youtubeId": "9CXXS3zldUU",
+        "youtubeTime": 13
     },
     "463": {
         "name": "A Little Party Never Killed Nobody (All We Got) - ALTERNATE",
@@ -3767,8 +3767,8 @@ var songs = {
         "artist": "Arash feat. Snoop Dogg",
         "gender": "♀",
         "category": [8],
-        "youtubeId": "EYFmGf2W_Uk",
-        "youtubeTime": 0
+        "youtubeId": "9ZBZCeEvjPo",
+        "youtubeTime": 4
     },
     "466": {
         "name": "Fine China - ALTERNATE",
@@ -3791,16 +3791,16 @@ var songs = {
         "artist": "Katy Perry feat. Nicki Minaj",
         "gender": "♂/♂",
         "category": [8],
-        "youtubeId": "k-0Gf9PSP5M",
-        "youtubeTime": 0
+        "youtubeId": "DYeEcXe6EEk",
+        "youtubeTime": 24
     },
     "469": {
         "name": "John Wayne - ALTERNATE",
         "artist": "Lady Gaga",
         "gender": "♀",
         "category": [8],
-        "youtubeId": "nOrsIx_gOpw",
-        "youtubeTime": 0
+        "youtubeId": "jTEPbzPil_g",
+        "youtubeTime": 13
     },
     "470": {
         "name": "24K Magic - ALTERNATE",
@@ -3823,8 +3823,8 @@ var songs = {
         "artist": "Yemi Alade",
         "gender": "♀",
         "category": [8],
-        "youtubeId": "SAuyHU5yxWI",
-        "youtubeTime": 0
+        "youtubeId": "adWEVr5Lda0",
+        "youtubeTime": 14
     },
     "473": {
         "name": "#thatPOWER - ALTERNATE",
@@ -3935,7 +3935,7 @@ var songs = {
         "artist": "Disney's Frozen 2",
         "gender": "♀",
         "category": [9],
-        "youtubeId": "o6itxPa2-gs",
+        "youtubeId": "thkw1sxr_bw",
         "youtubeTime": 0
     },
     "487": {
@@ -4015,15 +4015,15 @@ var songs = {
         "artist": "Dancing Bros.",
         "gender": "♂",
         "category": [9],
-        "youtubeId": "Be8sTzRC9hI",
-        "youtubeTime": 0
+        "youtubeId": "uRhsDhUhTZM",
+        "youtubeTime": 1
     },
     "497": {
         "name": "Magic Halloween",
         "artist": "Halloween Thrills",
         "gender": "♂/♀",
         "category": [9],
-        "youtubeId": "LEA2qji_rCU",
+        "youtubeId": "F-TG5uFW1e8",
         "youtubeTime": 10
     },
     "498": {
@@ -4035,7 +4035,7 @@ var songs = {
         "youtubeTime": 4
     },
     "499": {
-        "name": "Waka Waka (This Time for Africa) - KIDS",
+        "name": "Waka Waka (This Time for Africa)",
         "artist": "Shakira",
         "gender": "♀",
         "category": [9],
@@ -4167,8 +4167,8 @@ var songs = {
         "artist": "Tom Zehnder",
         "gender": "♀/♀/♀",
         "category": [9],
-        "youtubeId": "Qx5yrHRkxDU",
-        "youtubeTime": 11
+        "youtubeId": "1eEmw3-jFts",
+        "youtubeTime": 23
     },
     "516": {
         "name": "I Like to Move It",
@@ -4367,8 +4367,8 @@ var songs = {
         "artist": "The Hit Crew",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "HgHnIajxYh4",
-        "youtubeTime": 0
+        "youtubeId": "Dnv7YT6Io-A",
+        "youtubeTime": 14
     },
     "541": {
         "name": "Hey Mama - ALTERNATE",
@@ -4415,8 +4415,8 @@ var songs = {
         "artist": "Dancing Bros",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "Be8sTzRC9hI",
-        "youtubeTime": 0
+        "youtubeId": "OirUr9-j7VA",
+        "youtubeTime": 13
     },
     "547": {
         "name": "Irish Meadow Dance",
@@ -4431,8 +4431,8 @@ var songs = {
         "artist": "The Sunlight Shakers",
         "gender": "♂/♀",
         "category": [0],
-        "youtubeId": "jWsODdTYC6Q",
-        "youtubeTime": 0
+        "youtubeId": "7tas00Ff1n0",
+        "youtubeTime": 2
     },
     "549": {
         "name": "Jailhouse Rock - ALTERNATE",
@@ -4447,8 +4447,8 @@ var songs = {
         "artist": "Equinox Stars",
         "gender": "♂/♂",
         "category": [0],
-        "youtubeId": "cSXYPGhOrR0",
-        "youtubeTime": 14
+        "youtubeId": "wKEKTjqjzNw",
+        "youtubeTime": 0
     },
     "551": {
         "name": "Just Dance - ALTERNATE",
@@ -4463,8 +4463,8 @@ var songs = {
         "artist": "JD McCrary",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "9EcUHteRK8g",
-        "youtubeTime": 8
+        "youtubeId": "Pdo2eCGEEiU",
+        "youtubeTime": 13
     },
     "553": {
         "name": "Kissing Strangers - ALTERNATE",
@@ -4495,8 +4495,8 @@ var songs = {
         "artist": "The Just Dance Orchestra",
         "gender": "♂/♂",
         "category": [0],
-        "youtubeId": "310YcqCLZgQ",
-        "youtubeTime": 0
+        "youtubeId": "ERRrKU9DzNw",
+        "youtubeTime": 13
     },
     "557": {
         "name": "Never Gonna Give You Up",
@@ -4516,9 +4516,9 @@ var songs = {
     "559": {
         "name": "Rain Over Me",
         "artist": "Pitbull Ft. Marc Anthony",
-        "gender": "♂",
+        "gender": "♀",
         "category": [0],
-        "youtubeId": "511gl-Vno5c",
+        "youtubeId": "uFnZz2ZTEZw",
         "youtubeTime": 8
     },
     "560": {
@@ -4526,7 +4526,7 @@ var songs = {
         "artist": "Earth, Wind & Fire (covered by Equinox Stars)",
         "gender": "♂",
         "category": [0],
-        "youtubeId": "J7q3Jbbaw34",
+        "youtubeId": "xqBNSW7bH9c",
         "youtubeTime": 0
     },
     "561": {
@@ -4556,10 +4556,10 @@ var songs = {
     "564": {
         "name": "Stop Movin'",
         "artist": "Royal Republic",
-        "gender": "♀",
+        "gender": "♂/♀/♂",
         "category": [0],
-        "youtubeId": "dhrfP4NBxu4",
-        "youtubeTime": 14
+        "youtubeId": "Hv58YSMySzU",
+        "youtubeTime": 10
     },
     "565": {
         "name": "Taste the Feeling - ALTERNATE",
@@ -4582,7 +4582,7 @@ var songs = {
         "artist": "Black Eyed Peas",
         "gender": "♂/♀/♂/♀",
         "category": [0],
-        "youtubeId": "UVOj2bvDvYc",
+        "youtubeId": "9uAj0mNZZFY",
         "youtubeTime": 0
     },
     "568": {
@@ -4590,8 +4590,8 @@ var songs = {
         "artist": "Black Eyed Peas",
         "gender": "♀",
         "category": [0],
-        "youtubeId": "ajRexoxXnhU",
-        "youtubeTime": 10
+        "youtubeId": "Tx0SDuEFOJQ",
+        "youtubeTime": 0
     },
     "569": {
         "name": "Tribal Dance - ALTERNATE",
@@ -4672,5 +4672,13 @@ var songs = {
         "category": [0],
         "youtubeId": "fBVxwep-Y6U",
         "youtubeTime": 0
+    },
+    "579": {
+        "name": "Taki Taki - Fanmade",
+        "artist": "DJ Snake Ft. Selena Gomez, Ozuna, Cardi B",
+        "gender": "♀",
+        "category": [1, 7],
+        "youtubeId": "5oDAUf4DZmk",
+        "youtubeTime": 4
     }
 }
