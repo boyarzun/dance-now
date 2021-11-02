@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.17be3d13.chunk.css",
+    "main.js": "./static/js/main.4678024d.chunk.js",
+    "main.js.map": "./static/js/main.4678024d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0c8848f2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0c8848f2.js.map",
+    "static/js/2.16b3360f.chunk.js": "./static/js/2.16b3360f.chunk.js",
+    "static/js/2.16b3360f.chunk.js.map": "./static/js/2.16b3360f.chunk.js.map",
+    "static/js/3.8eb45f9d.chunk.js": "./static/js/3.8eb45f9d.chunk.js",
+    "static/js/3.8eb45f9d.chunk.js.map": "./static/js/3.8eb45f9d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.17be3d13.chunk.css.map": "./static/css/main.17be3d13.chunk.css.map",
+    "static/js/2.16b3360f.chunk.js.LICENSE.txt": "./static/js/2.16b3360f.chunk.js.LICENSE.txt",
+    "static/media/DaddyCool_P1_Ava.f7a78496.png": "./static/media/DaddyCool_P1_Ava.f7a78496.png",
+    "static/media/App.css": "./static/media/MaterialIcons-Regular.120b4c7b.ttf",
+    "static/media/banner.e6041412.jpg": "./static/media/banner.e6041412.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c8848f2.js",
+    "static/js/2.16b3360f.chunk.js",
+    "static/css/main.17be3d13.chunk.css",
+    "static/js/main.4678024d.chunk.js"
+  ]
+}

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Just Dance Now</title>
+    <link
+      rel="icon"
+      href="assets/img/DaddyCool_P1_Ava.png"
+      type="image/png"
+      sizes="133x133"
+    />
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+
+    <!-- Essential social media meta tags-->
+    <meta property="og:title" content="Just Dance Now - Categories" />
+    <meta
+      property="og:description"
+      content="¡Enjoy your favorite Just Dance Now songs on Youtube!"
+    />
+    <meta
+      property="og:image"
+      content="https://dance-now.onrender.com/assets/img/social-media.jpg"
+    />
+    <meta
+      property="og:url"
+      content="https://dance-now.onrender.com/category.html"
+    />
+
+    <!--  Non-Essential, But Recommended -->
+    <meta property="og:site_name" content="Just Dance Now - On Youtube" />
+    <meta
+      name="twitter:image:alt"
+      content="¡Enjoy your favorite Just Dance Now songs on Youtube!"
+    />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-178296792-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || []
+      function gtag() {
+        dataLayer.push(arguments)
+      }
+      gtag("js", new Date())
+
+      gtag("config", "UA-178296792-1")
+    </script>
+  </head>
+
+  <body>
+    <div id="loader-wrapper">
+      <div id="loader"></div>
+      <div class="loader-section section-left"></div>
+      <div class="loader-section section-right"></div>
+    </div>
+
+    <header>
+      <div class="fixed-top">
+        <div class="profile-section d-flex align-items-center float-right">
+          <img class="profile-img" src="assets/img/DaddyCool_P1_Ava.png" />
+          <button class="button-vip">
+            <img src="assets/img/crown.png" /> VIP
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <section class="container-md">
+      <div class="row">
+        <div class="col-12">
+          <div class="row" id="songs"></div>
+        </div>
+      </div>
+    </section>
+
+    <nav class="navbar fixed-bottom navbar-light bg-white">
+      <div class="container-fluid text-center">
+        <div class="col-4">
+          <a class="active" href="index.html"
+            ><i class="material-icons">video_library</i></a
+          >
+        </div>
+        <div class="col-4">
+          <a href="songs.html"><i class="material-icons">library_music</i></a>
+        </div>
+        <div class="col-4">
+          <a href="settings.html"><i class="material-icons">settings</i></a>
+        </div>
+      </div>
+    </nav>
+
+    <script src="assets/js/songs.js"></script>
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/category.js"></script>
+  </body>
+</html>
