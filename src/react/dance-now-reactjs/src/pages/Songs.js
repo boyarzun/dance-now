@@ -29,7 +29,7 @@ export default function Songs(props) {
       <div className="row">
         <div className="col-11 songs">
           <div className="row" id="songs">
-            {renderSongSections(filteredSongs || Object.values(SongsList))}
+            {renderSongSections(filteredSongs.length ? filteredSongs : Object.values(SongsList))}
           </div>
         </div>
 

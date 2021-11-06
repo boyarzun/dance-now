@@ -1,4 +1,3 @@
-import { SongsList } from "../songs/songs"
 import SongCard from "./../components/SongCard"
 let alphabet = [
   "#",
