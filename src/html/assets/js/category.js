@@ -13,7 +13,7 @@ function drawSongsSection(songs, id) {
         songsFilteredByCategoryId.map(song => {
             content += `<div class="col-4 col-sm-3 col-lg-2 category">
              <a href="https://youtu.be/${song.youtubeId}?t=${song.youtubeTime}" target="_blank">   
-                <img class="song-img" src="http://img.youtube.com/vi/${song.youtubeId}/mqdefault.jpg" width="100%">
+                <img class="song-img" src="https://img.youtube.com/vi/${song.youtubeId}/mqdefault.jpg" width="100%">
             </a>
             <a href="https://youtu.be/${song.youtubeId}?t=${song.youtubeTime}" target="_blank">
                 <p class="song-name">${song.name}</p>

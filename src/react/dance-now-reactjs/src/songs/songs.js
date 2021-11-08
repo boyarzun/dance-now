@@ -1,39 +1,39 @@
 export var Categories = {
   1: {
     name: "Outer World",
-    img: "assets/img/Outer-World.jpg"
+    img: "src/react/build/assets/img/Outer-World.jpg"
   },
   2: {
     name: "Gimme, Gimme, Gimme Abba!",
-    img: "assets/img/Gimme-Gimme-Gimme-Abba.jpg"
+    img: "src/react/build/assets/img/Gimme-Gimme-Gimme-Abba.jpg"
   },
   3: {
     name: "Passport in a Playlist",
-    img: "assets/img/Passport-in-a-Playlist.jpg"
+    img: "src/react/build/assets/img/Passport-in-a-Playlist.jpg"
   },
   4: {
     name: "Easy Peasy Party",
-    img: "assets/img/Easy-Peasy-Party.jpg"
+    img: "src/react/build/assets/img/Easy-Peasy-Party.jpg"
   },
   5: {
     name: "Fitness",
-    img: "assets/img/Fitness.jpg"
+    img: "src/react/build/assets/img/Fitness.jpg"
   },
   6: {
     name: "Latin Corner",
-    img: "assets/img/Latin-Corner.jpg"
+    img: "src/react/build/assets/img/Latin-Corner.jpg"
   },
   7: {
     name: "Hall of Fame",
-    img: "assets/img/Hall-Of-Fame.jpg"
+    img: "src/react/build/assets/img/Hall-Of-Fame.jpg"
   },
   8: {
     name: "Extreme",
-    img: "assets/img/Extreme.jpg"
+    img: "src/react/build/assets/img/Extreme.jpg"
   },
   9: {
     name: "Kids Corner",
-    img: "assets/img/Kids-Corner.jpg"
+    img: "src/react/build/assets/img/Kids-Corner.jpg"
   },
   10: {
     name: "All Songs A-E"
