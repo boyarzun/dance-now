@@ -1,63 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Just Dance Now on Youtube</title>
-    <!-- Bootstrap core CSS -->
-    <link
-      href="https://getbootstrap.com/docs/5.1/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
-      crossorigin="anonymous"
-    />
-  </head>
-  <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 d-flex justify-content-center">
-          <div class="card" style="width: 18rem">
-            <a href="./src/html/index.html" rel="noopener noreferrer">
-              <img src="./html5.png" class="card-img-top" alt="HTML5" />
-            </a>
-            <div class="card-body">
-              <h5 class="card-title">HTML5</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-              <a href="./src/html/index.html" class="card-link">Demo</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 d-flex justify-content-center">
-          <div class="card" style="width: 18rem">
-            <a href="./src/react/build/index.html" rel="noopener noreferrer">
-              <img src="./react.png" class="card-img-top" alt="React" />
-            </a>
-            <div class="card-body">
-              <h5 class="card-title">React</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-              <a href="./src/react/build/index.html" class="card-link">Demo</a>
-            </div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Just Dance Now on Youtube</title>
+  <link rel="icon" href="./assets/img/DaddyCool_P1_Ava.png" type="image/png" sizes="133x133" />
+  <!-- Bootstrap core CSS -->
+  <link href="https://getbootstrap.com/docs/5.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+  <style>
+    .card {
+      filter: grayscale(1);
+    }
+
+    .card:hover {
+      filter: grayscale(0);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container mt-5">
+    <div class="row align-items-center">
+      <div class="order-1 order-md-0 mb-5 mb-md-0 col-md-4 d-flex justify-content-center">
+        <div class="card" style="width: 18rem">
+          <a href="./src/html/index.html" rel="noopener noreferrer">
+            <img src="./assets/img/html5.png" class="card-img-top" alt="HTML5" />
+          </a>
+          <div class="card-body text-center">
+            <h5 class="card-title">HTML5</h5>
+            <a class="btn btn-primary" href="./src/html/index.html" class="card-link">Demo</a>
           </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-12 d-flex justify-content-center">
-          <a
-            href="https://github.com/boyarzun/dance-now"
-            class="btn btn-secondary"
-            >View on GitHub <img src="./github.png" width="20px" alt=""
-          /></a>
+      <div class="order-0 mb-5 order-md-1 col-md-4">
+        <video width="100%" height="auto" autoplay muted loop>
+          <source src="./assets/video/dance-now.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="order-2 order-md-2 col-md-4 d-flex justify-content-center">
+        <div class="card" style="width: 18rem">
+          <a href="./src/react/build/index.html" rel="noopener noreferrer">
+            <img src="./assets/img/react.png" class="card-img-top" alt="React" />
+          </a>
+          <div class="card-body text-center">
+            <h5 class="card-title">React</h5>
+            <a class="btn btn-primary" href="./src/react/build/index.html" class="card-link">Demo</a>
+          </div>
         </div>
       </div>
     </div>
-  </body>
+    <div class="row my-5">
+      <div class="col-md-12 d-flex justify-content-center">
+        <a href="https://github.com/boyarzun/dance-now" class="btn btn-secondary" rel="noopener noreferrer">View on
+          GitHub <img src="./assets/img/github.png" width="20px" alt="" /></a>
+      </div>
+    </div>
+  </div>
+</body>
+
 </html>
